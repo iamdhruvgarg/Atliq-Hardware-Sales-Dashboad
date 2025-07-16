@@ -127,14 +127,6 @@ Power BI serves as the primary platform for developing this multi-dimensional da
 
 ---
 
-## 📞 Support
-
-For any queries, issues, feedback, or enhancement requests related to this report, please reach out to the **support specialist** listed on the **Home Page** of the dashboard.
-
-Timely support is available to ensure the report remains accurate, up-to-date, and aligned with evolving business needs.
-
----
-
 ## 📁 File Structure
 
 ```bash
