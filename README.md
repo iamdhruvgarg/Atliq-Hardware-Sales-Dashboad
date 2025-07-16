@@ -1,6 +1,6 @@
 # 📊 Business Insights 360 - Power BI Dashboard
 
-A comprehensive Power BI report offering a dynamic, 360-degree view of business performance across key departments. This dashboard integrates data from Finance, Sales, Marketing, and Supply Chain to provide a single source of truth for organizational health.
+A comprehensive Power BI report that provides a dynamic, 360-degree view of business performance across key departments. This dashboard integrates data from Finance, Sales, Marketing, and Supply Chain to offer a single source of truth for organizational health.
 
 ---
 
@@ -8,57 +8,141 @@ A comprehensive Power BI report offering a dynamic, 360-degree view of business 
 
 This interactive dashboard is designed for **executives, managers, and analysts** to explore performance data, identify critical trends, and make informed, data-driven decisions.
 
-By consolidating insights from various business dimensions into a single, intuitive interface, it eliminates the need to cross-reference multiple reports.
+By consolidating insights from various business dimensions into a single, intuitive interface, the report eliminates the need to cross-reference multiple reports and empowers stakeholders with timely, actionable insights.
 
 ---
 
 ## 🚀 Key Features
 
 - **Holistic View**  
-  A centralized hub for seamless navigation across departmental dashboards.
+  A centralized hub for navigating various departmental dashboards. This allows users to access all performance domains in one unified interface, reducing the need to toggle between multiple files or reports.
 
 - **Performance Tracking**  
-  Track KPIs such as **Net Sales**, **Gross Margin**, **Net Profit**, and **Forecast Accuracy** against targets and historical data.
+  Monitor KPIs like **Net Sales**, **Gross Margin**, **Net Profit**, and **Forecast Accuracy** against business targets and historical performance. This enables stakeholders to track how the organization is progressing over time.
 
 - **Deep Dive Analysis**  
-  Drill down by customer, product SKU, region, and channel to identify key performance drivers and root causes.
+  Drill down into customer-level, SKU-level, regional, and channel-specific data to identify performance drivers and root causes. The dashboard supports flexible slicing and dicing to uncover insights at granular levels.
 
 - **Comparative Analysis**  
-  Benchmark current results against targets, YoY, and previous year actuals (Vs LY).
+  Evaluate results against defined targets, **Year-over-Year (YoY)** performance, and **Last Year actuals (Vs LY)** to assess growth trends and performance gaps.
 
 - **Interactive Visuals**  
-  Use slicers, filters, and dynamically linked visuals to extract actionable insights.
+  The report makes extensive use of dynamically linked charts, graphs, and tables. Users can filter and slice data with a single click to isolate variables and discover focused insights.
 
 - **Profit & Loss Statement**  
-  A detailed, interactive P&L embedded in the Finance View.
+  A dedicated section within the **Finance View** provides a detailed, interactive **P&L statement**, supporting deep financial analysis and visibility into profitability drivers.
 
 ---
 
 ## 📂 Report Sections
 
 ### 1. 🏠 Home Page  
-The main navigation portal with a high-level summary of all dashboards. Each view is represented by an icon, which can be clicked to access the corresponding report page.  
-Also displays the **last refresh date and time** of the dataset.
+The main navigation portal and high-level summary. This page showcases all the different views and dashboards included in the report. Each section is represented with an icon on the Home Page, and users can directly navigate to the respective page by clicking on the corresponding icon.  
+It also displays the **last refresh date and time** for data, ensuring transparency in data freshness and recency.
 
 📷 ![Home Page](https://github.com/user-attachments/assets/3aa4630d-8455-4bdd-8ec9-a345f5fabc36)
 
 ---
 
 ### 2. 💰 Finance View  
-A comprehensive financial overview for tracking Net Sales, Gross Margin %, and Net Profit %.  
-Includes a fully interactive **Profit & Loss statement** that can be filtered by customer or region for detailed insights into financial flow and progress.
+This view tracks overall financial health with an interactive P&L, Net Sales trends, and insights into customer/product-level profitability.  
+
+The **Finance View** includes all major KPIs such as **Net Sales**, **Gross Margin %**, and **Net Profit %**.  
+The **Profit and Loss statement** can be filtered for each customer, which enables users to generate insights about the financial trajectory and flow associated with individual customers.  
+
+Each page is equipped with filters to enable refined analysis based on customer, region, or other dimensions, allowing for tailored insights and comparative financial evaluation.
 
 📷 ![Finance View](https://github.com/user-attachments/assets/db340e28-d615-4b07-be24-b22e1d891872)
 
 ---
 
 ### 3. 📈 Sales View  
-Visualizes sales performance across customers, regions, and products.  
-Includes a **performance matrix** (scatter plot) to assess Net Sales vs Gross Margin % by region.  
-Features **unit economics** displayed via donut charts, illustrating the distribution of Total Cost of Goods.
+This view focuses on sales effectiveness, revenue generation, and customer/product performance.  
+
+**Sales View** presents sales metrics for various customers. A **performance matrix** in the form of a scatter plot is included, where customers and their regions are visualized based on their **Net Sales** and **Gross Margin %**.  
+This matrix is highly insightful and can be used to derive powerful sales and profitability trends — such as identifying profit curves and performance clusters across different geographies.
+
+Additionally, the **Unit Economics** section uses donut charts to illustrate the distribution of **Total Cost of Goods**, allowing users to quickly assess cost allocation and profitability at a transactional level.
 
 📷 ![Sales View](https://github.com/user-attachments/assets/4e67bd5a-e80f-46e8-aec6-ab2573fde741)
 
 ---
 
-### 4. 📢
+### 4. 📢 Marketing View  
+This view analyzes marketing impact, product positioning, and campaign profitability across regions and customer groups.  
+
+It is designed to be similar in layout to the **Sales View**, showcasing **Product**, **Region**, and **Market** performance in relation to customers.  
+The performance matrix compares **Gross Margin %** against **Net Sales** for different divisions, providing insight into how effective marketing efforts have been in driving profitability.  
+
+It also includes elements of **IT economics**, giving an overview of the **cost-benefit analysis of marketing technology investments** and promotional spending.
+
+📷 ![Marketing View](https://github.com/user-attachments/assets/7b9e9f05-c69b-4018-ada9-0619602582bb)
+
+---
+
+### 5. ⛓️ Supply Chain View  
+This view is centered on operational efficiency and supply chain KPIs.  
+
+It monitors crucial metrics like **Forecast Accuracy**, **Net Error**, **Absolute Error (ABS Error)**, and product-level operational indicators.  
+By analyzing these metrics at the customer and product level, users can detect patterns of **excess inventory**, **potential stock-outs**, and **supplier performance issues**.
+
+The insights generated here are critical for optimizing inventory flow, logistics operations, and demand planning.
+
+📷 ![Supply Chain View](https://github.com/user-attachments/assets/a1cbdb84-bfd2-420a-985b-c8517374ab27)
+
+---
+
+### 6. 👔 Executive View  
+This high-level summary is designed for the C-suite and senior leadership.  
+
+It consolidates all critical KPIs and insights across Finance, Sales, Marketing, and Supply Chain into a single, easily digestible page.  
+The **Executive View** enables top-level stakeholders to get a quick strategic snapshot of the organization’s health and performance without needing to dive into each departmental dashboard.
+
+---
+
+## 🔑 Key Measures Tracked
+
+The report draws on a robust underlying data model built on a comprehensive set of measures across business functions, including but not limited to:
+
+- **Net Sales (NS $)**  
+- **Gross Margin (GM %, GM $)**  
+- **Net Profit ($ & %)**  
+- **Cost of Goods Sold (COGS)**  
+- **Operational Expense**  
+- **Forecast Accuracy (%)**  
+- **Absolute Error (ABS Error)**  
+- **Ads & Promotions ($)**  
+- **Freight Cost ($)**  
+- **Manufacturing Cost ($)**  
+- ...and many more metrics for in-depth evaluation.
+
+📷 ![Key Measures](https://github.com/user-attachments/assets/29862985-7ef9-4e02-821f-f95193b2f47b)
+
+---
+
+## 🛠️ Technology Stack
+
+- **Microsoft Power BI** – Used for robust data modeling, transformation, visualization, and interactivity.  
+Power BI serves as the primary platform for developing this multi-dimensional dashboard and provides end-users with advanced analytical capabilities.
+
+---
+
+## 📞 Support
+
+For any queries, issues, feedback, or enhancement requests related to this report, please reach out to the **support specialist** listed on the **Home Page** of the dashboard.
+
+Timely support is available to ensure the report remains accurate, up-to-date, and aligned with evolving business needs.
+
+---
+
+## 📁 File Structure
+
+```bash
+├── Business_Insights_360.pbix         # Main Power BI report file
+├── README.md                          # Project documentation
+├── home-page.jpg                      # Dashboard screenshot
+├── finance-view.jpg                   # Finance dashboard image
+├── sales-view.jpg                     # Sales dashboard image
+├── marketing-view.jpg                 # Marketing dashboard image
+├── supply-chain-view.jpg              # Supply Chain dashboard image
+├── key-measures.png                   # Snapshot of tracked KPIs and measures
