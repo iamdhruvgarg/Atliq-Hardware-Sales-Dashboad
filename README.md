@@ -2,7 +2,7 @@
 
 A comprehensive Power BI report that provides a dynamic, 360-degree view of business performance across key departments. This dashboard integrates data from Finance, Sales, Marketing, and Supply Chain to offer a single source of truth for organizational health.
 
-## Link: https://app.powerbi.com/groups/me/reports/625af7a2-ecc2-48a4-8bac-9df50dc8b084?ctid=75c6a54f-cdc9-4ed2-941c-7096cf7dbda0&pbi_source=linkShare
+## Link:[ https://app.powerbi.com/groups/me/reports/625af7a2-ecc2-48a4-8bac-9df50dc8b084?ctid=75c6a54f-cdc9-4ed2-941c-7096cf7dbda0&pbi_source=linkShare](https://app.powerbi.com/groups/bc00c90e-71b2-4706-b6ad-bc8afba35684/reports/5a3fd861-c0d8-4e71-96e5-0e2d62e3b13d/327bd870d55029972482?bookmarkGuid=424c8a7c-059f-4fe1-b61a-3b54921dcf95&bookmarkUsage=1&ctid=75c6a54f-cdc9-4ed2-941c-7096cf7dbda0&portalSessionId=cbc97701-47fa-49ff-905b-b1a3f1339430&fromEntryPoint=export)
 
 ---
 
