@@ -99,6 +99,7 @@ This high-level summary is designed for the C-suite and senior leadership.
 
 It consolidates all critical KPIs and insights across Finance, Sales, Marketing, and Supply Chain into a single, easily digestible page.  
 The **Executive View** enables top-level stakeholders to get a quick strategic snapshot of the organization’s health and performance without needing to dive into each departmental dashboard.
+<img width="1371" height="768" alt="image" src="https://github.com/user-attachments/assets/6a2d4a16-9c9f-45bc-8b8a-25a2658b39e5" />
 
 ---
 
