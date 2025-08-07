@@ -86,7 +86,7 @@ It also includes elements of **IT economics**, giving an overview of the **cost-
 This view is centered on operational efficiency and supply chain KPIs.  
 
 It monitors crucial metrics like **Forecast Accuracy**, **Net Error**, **Absolute Error (ABS Error)**, and product-level operational indicators.  
-By analyzing these metrics at the customer and product level, users can detect patterns of **excess inventory**, **potential stock-outs**, and **supplier performance issues**.
+By analyzing these metrics at the customer and product level, users can detect patterns of **inventory trend across years**, **an extensive understanding yearwise wise Net Error and Forecast Accuracy**, and **then take actions for the improvement of supply chain for the specific regions and markets accordingly**
 
 The insights generated here are critical for optimizing inventory flow, logistics operations, and demand planning.
 
