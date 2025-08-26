@@ -4,6 +4,8 @@ A comprehensive Power BI report that provides a dynamic, 360-degree view of busi
 
 ## Live Link : [Go to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWVkZmJiNjUtZTYwOS00YTE1LWEzZTUtNDJlMTBjNDBiM2NhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+## Check out my Portfolio : [Link](https://codebasics.io/portfolio/Dhruv-Garg)
+
 ---
 
 ## 🏁 Overview
